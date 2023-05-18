@@ -13,10 +13,12 @@
     "@tensorflow/tfjs": "^4.5.0",
     "@vladmandic/face-api": "^1.7.11",
     "canvas": "^2.11.2",
+    "cheerio": "^1.0.0-rc.12",
     "express": "^4.18.2",
     "express-fileupload": "^1.4.0",
     "face-api.js": "^0.20.0",
     "fs": "^0.0.1-security",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "request": "^2.88.2"
   }
 }
